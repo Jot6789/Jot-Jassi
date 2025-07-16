@@ -92,3 +92,14 @@ footer {
     margin: 0.5rem 0.8rem;
   }
 }
+@media (max-width: 768px) {
+  nav a {
+    display: block;
+    margin: 10px 0;
+  }
+
+  .profile-photo {
+    width: 120px;
+    height: 120px;
+  }
+}
